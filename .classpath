@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/cos-09may2002.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/mysql-connector-java-5.0.5-bin.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/org.apache.commons.fileupload.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/struts2-core-2.0.11.2.jar"/>
+	<classpathentry kind="lib" path="lib/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="lib/cos-09may2002.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-endorsed-api-6.0/javaee-doc-api.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-endorsed-api-6.0/javax.annotation.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-endorsed-api-6.0/jaxb-api-osgi.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-endorsed-api-6.0/webservices-api-osgi.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.0.5-bin.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.commons.fileupload.jar"/>
+	<classpathentry kind="lib" path="lib/servlet.jar"/>
+	<classpathentry kind="lib" path="lib/struts2-core-2.0.11.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
